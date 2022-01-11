@@ -1,0 +1,3 @@
+[submodule "exteranl"]
+	path = exteranl
+	url = https://github.com/LaiserN7/SDK.git
